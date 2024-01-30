@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leraes043&label=Profile%20views&color=0e75b6&style=flat" alt="leraes043" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leraes043" alt="leraes043" /></a> </p>
-
 - 🔭 I’m currently working on [Nahamsec's bug bounty roadmap](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 - 🌱 I’m currently learning **Network fundamentals, OS and bug bounty**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **solak4310@gmail.com**
 
-- ⚡ Fun fact **A motorsports lover**
+- ⚡ Fun fact: **A motorsports lover**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leraes043&show_icons=true&locale=en" alt="leraes043" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leraes043&" alt="leraes043" /></p>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e76e01b128dce3cb7014d4?variant=dark&roadmaps=computer-science%2Cprompt-engineering)](https://roadmap.sh)
