@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Report#3](https://leraes.medium.com/weekly-report-3-d90eed2ad5ed?source=rss-720a8837fa9e------2)
+- [Weekly Report #2](https://leraes.medium.com/weekly-report-2-1a9f29c3be05?source=rss-720a8837fa9e------2)
+- [Weekly Report #1](https://leraes.medium.com/weekly-report-1-108455c7923f?source=rss-720a8837fa9e------2)
+- [Let’s Meet](https://leraes.medium.com/lets-meet-751e8a053353?source=rss-720a8837fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
