@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leraes043&show_icons=true&locale=en" alt="leraes043" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leraes043&" alt="leraes043" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e76e01b128dce3cb7014d4?variant=dark&roadmaps=computer-science%2Cprompt-engineering)](https://roadmap.sh)
