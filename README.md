@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PM B1-Prompt Engineering Terimleri](https://leraes.medium.com/pm-b1-prompt-engineering-terimleri-2a4ae81d600e?source=rss-720a8837fa9e------2)
 - [B0-Prompting Eğitim Serisi Tanıtımı](https://leraes.medium.com/b0-prompting-e%C4%9Fitim-serisi-tan%C4%B1t%C4%B1m%C4%B1-7ac2b2a47dda?source=rss-720a8837fa9e------2)
 - [I’m not New, I’m Back](https://leraes.medium.com/im-not-new-i-m-back-6239eb8528c7?source=rss-720a8837fa9e------2)
 - [Weekly Report#3](https://leraes.medium.com/weekly-report-3-d90eed2ad5ed?source=rss-720a8837fa9e------2)
-- [Weekly Report #2](https://leraes.medium.com/weekly-report-2-1a9f29c3be05?source=rss-720a8837fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
