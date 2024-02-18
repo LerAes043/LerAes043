@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [PM B1-Prompt Engineering Terimleri](https://leraes.medium.com/pm-b1-prompt-engineering-terimleri-2a4ae81d600e?source=rss-720a8837fa9e------2)
-- [B0-Prompting Eğitim Serisi Tanıtımı](https://leraes.medium.com/b0-prompting-e%C4%9Fitim-serisi-tan%C4%B1t%C4%B1m%C4%B1-7ac2b2a47dda?source=rss-720a8837fa9e------2)
-- [I’m not New, I’m Back](https://leraes.medium.com/im-not-new-i-m-back-6239eb8528c7?source=rss-720a8837fa9e------2)
-- [Weekly Report#3](https://leraes.medium.com/weekly-report-3-d90eed2ad5ed?source=rss-720a8837fa9e------2)
+- [PM-B3 Prompting’e Giriş](https://leraes.medium.com/pm-b3-promptinge-giri%C5%9F-81e1e3f62c69?source=rss-720a8837fa9e------2)
+- [PM B2 LLM’lere Giriş](https://leraes.medium.com/pm-b2-llmlere-giri%C5%9F-c8495e59f5a1?source=rss-720a8837fa9e------2)
+- [PM-B1 Prompt Engineering Terimleri](https://leraes.medium.com/pm-b1-prompt-engineering-terimleri-2a4ae81d600e?source=rss-720a8837fa9e------2)
+- [PM-B0 Prompting Eğitim Serisi Tanıtımı](https://leraes.medium.com/b0-prompting-e%C4%9Fitim-serisi-tan%C4%B1t%C4%B1m%C4%B1-7ac2b2a47dda?source=rss-720a8837fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
