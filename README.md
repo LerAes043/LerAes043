@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [PM-B3 Prompting’e Giriş](https://leraes.medium.com/pm-b3-promptinge-giri%C5%9F-81e1e3f62c69?source=rss-720a8837fa9e------2)
-- [PM B2 LLM’lere Giriş](https://leraes.medium.com/pm-b2-llmlere-giri%C5%9F-c8495e59f5a1?source=rss-720a8837fa9e------2)
-- [PM-B1 Prompt Engineering Terimleri](https://leraes.medium.com/pm-b1-prompt-engineering-terimleri-2a4ae81d600e?source=rss-720a8837fa9e------2)
-- [PM-B0 Prompting Eğitim Serisi Tanıtımı](https://leraes.medium.com/b0-prompting-e%C4%9Fitim-serisi-tan%C4%B1t%C4%B1m%C4%B1-7ac2b2a47dda?source=rss-720a8837fa9e------2)
+- [PM-B7 Prompt Yazma Teknikleri](https://leraes.medium.com/pm-b7-prompt-yazma-teknikleri-4b9e7bc2a9bc?source=rss-720a8837fa9e------2)
+- [PM-B6 Prompt Yazma](https://leraes.medium.com/pm-b6-prompt-yazma-1b04cba8de69?source=rss-720a8837fa9e------2)
+- [PM-B5 Prompt’un Kısımları](https://leraes.medium.com/pm-b5-promptun-k%C4%B1s%C4%B1mlar%C4%B1-e1064e834581?source=rss-720a8837fa9e------2)
+- [PM-B4 Neden Prompt Mühendisliği?](https://leraes.medium.com/pm-b4-neden-prompt-m%C3%BChendisli%C4%9Fi-5fd163a6a3d5?source=rss-720a8837fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
