@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PM-B10 LLM’lerin Güvenilirliğini Artırmak](https://leraes.medium.com/pm-b10-llmlerin-g%C3%BCvenilirli%C4%9Fini-art%C4%B1rmak-ad46ed9a0de9?source=rss-720a8837fa9e------2)
+- [PM-B9 LLM’lerin Zayıf Noktaları](https://leraes.medium.com/pm-b9-llmlerin-zay%C4%B1f-noktalar%C4%B1-62db0c292ce3?source=rss-720a8837fa9e------2)
+- [PM-B8 LLM’lerin Yapabileceklerine Örnekler](https://leraes.medium.com/pm-b8-llmlerin-yapabileceklerine-%C3%B6rnekler-e80a7cea1a49?source=rss-720a8837fa9e------2)
 - [PM-B7 Prompt Yazma Teknikleri](https://leraes.medium.com/pm-b7-prompt-yazma-teknikleri-4b9e7bc2a9bc?source=rss-720a8837fa9e------2)
-- [PM-B6 Prompt Yazma](https://leraes.medium.com/pm-b6-prompt-yazma-1b04cba8de69?source=rss-720a8837fa9e------2)
-- [PM-B5 Prompt’un Kısımları](https://leraes.medium.com/pm-b5-promptun-k%C4%B1s%C4%B1mlar%C4%B1-e1064e834581?source=rss-720a8837fa9e------2)
-- [PM-B4 Neden Prompt Mühendisliği?](https://leraes.medium.com/pm-b4-neden-prompt-m%C3%BChendisli%C4%9Fi-5fd163a6a3d5?source=rss-720a8837fa9e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
